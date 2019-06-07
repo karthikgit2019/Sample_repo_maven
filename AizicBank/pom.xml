@@ -5,7 +5,7 @@
 
   <groupId>com.Bankng</groupId>
   <artifactId>AizicBank</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>Aizic Bank</name>
   <!-- FIXME change it to the project's website -->
@@ -14,7 +14,7 @@
    <connection>scm:git:https://github.com/karthikgit2019/Sample_repo_maven.git</connection>
    <url>https://github.com/karthikgit2019/Sample_repo_maven</url>
    <developerConnection>scm:git:https://github.com/karthikgit2019/Sample_repo_maven.git</developerConnection>
-  <tag>rel1</tag>
+  <tag>HEAD</tag>
   </scm>
 
 <distributionManagement>
